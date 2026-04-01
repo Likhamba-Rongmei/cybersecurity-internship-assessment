@@ -105,8 +105,8 @@ To make the system more secure and closer to real-world implementations:
 ```text
 task1-tamper-evident-logging/
 │
-├── logger.py        # Core implementation
-└── README.md        # Documentation
+├── README.md        # Documentation
+└── logger.py        # Core implementation
 > Note: The log file is generated dynamically.
 ```
 ---
