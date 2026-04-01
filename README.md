@@ -26,20 +26,20 @@ This repository contains two cybersecurity implementations built as part of inte
 cybersecurity-internship-assessment/
 │
 ├── assets/
-│   ├── dashboard.png           # Screenshot of Dashboard with logs
-│   └── login.png               # Fake login page screenshot
+│   ├── dashboard.png              # Screenshot of Dashboard with logs
+│   └── login.png                  # Fake login page screenshot
 │
 ├── task1-tamper-evident-logging/
-│   ├── README.md               # Task 1 documentation
-│   └── logger.py               # Main implementation
+│   ├── README.md                  # Task 1 documentation
+│   └── logger.py                  # Main implementation
 │
 ├── task3-honeypot/
 │   │── templates/
-│   │    └── login.html         # Fake admin login portal UI
-│   ├── README.md               # Task 3 documentation
-│   └── app.py                  # Flask honeypot server
+│   │    └── login.html            # Fake admin login portal UI
+│   ├── README.md                  # Task 3 documentation
+│   └── app.py                     # Flask honeypot server
 │
-└── README.md                   # This file
+└── README.md                      # This file
 ```
 
 ---
