@@ -25,6 +25,10 @@ This repository contains two cybersecurity implementations built as part of inte
 ```
 cybersecurity-internship-assessment/
 │
+├── assets/
+│   ├── dashboard.png           # Screenshot of Dashboard with logs
+│   └── login.png               # Fake login page screenshot
+│
 ├── task1-tamper-evident-logging/
 │   ├── README.md               # Task 1 documentation
 │   └── logger.py               # Main implementation
@@ -63,6 +67,23 @@ Together they can be made to form a two-layer security pipeline:
 
 ---
 
+##  Screenshots
+
+###  Login Portal
+![Login](assets/login.png)
+
+###  Dashboard
+![Dashboard](assets/dashboard.png)
+
+---
+
+##  Demo & Report
+
+A full walkthrough video, report document, and additional screenshots are available here:
+
+ [View Demo, Report & Assets](https://drive.google.com/drive/folders/12l2ERhBdpg-XuLBIeMvKV9ONW1TMgr_n?usp=drive_link)
+
+---
 ##  Quick Setup
 
 ### Prerequisites
