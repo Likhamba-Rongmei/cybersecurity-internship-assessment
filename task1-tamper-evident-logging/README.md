@@ -107,8 +107,8 @@ task1-tamper-evident-logging/
 │
 ├── README.md        # Documentation
 └── logger.py        # Core implementation
-> Note: The log file is generated dynamically.
 ```
+> Note: The log file is generated dynamically.
 ---
 
 ##  How to Run
