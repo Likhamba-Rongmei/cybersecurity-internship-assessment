@@ -12,7 +12,7 @@ import os
 from datetime import datetime
 
 app = Flask(__name__)
-app.secret_key = "honeypot-secret-key-2024"
+app.secret_key = os.environ.get("SECRET_KEY", "dev-secret-key")
 
 
 # FILE PATHS
