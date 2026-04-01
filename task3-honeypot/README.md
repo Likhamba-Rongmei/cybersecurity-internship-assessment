@@ -44,10 +44,12 @@ Dashboard shows all events in real time
 ```
 task3-honeypot/
 │
-├── app.py # Flask backend (routing, detection logic)
 ├── templates/
-│ └── login.html # Fake admin portal UI
-└── README.md # Documentation
+│ └── login.html          # Fake admin portal UI
+│
+├── README.md             # Documentation
+│
+└── app.py                # Flask backend (routing, detection logic)
 > Note: Log files (`alerts.log`, `alerts.json`) are generated dynamically at runtime and are not included in the repository.
 
 ```
