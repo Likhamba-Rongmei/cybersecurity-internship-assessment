@@ -50,9 +50,9 @@ task3-honeypot/
 ├── README.md             # Documentation
 │
 └── app.py                # Flask backend (routing, detection logic)
-> Note: Log files (`alerts.log`, `alerts.json`) are generated dynamically at runtime and are not included in the repository.
 
 ```
+> Note: Log files (`alerts.log`, `alerts.json`) are generated dynamically at runtime and are not included in the repository.
 
 ---
 
