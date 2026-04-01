@@ -10,6 +10,7 @@
 ##  Overview
 
 This repository contains two cybersecurity implementations built as part of internship assessment. Both tasks were built in Python and demonstrate real-world security concepts used in production systems.
+> Note: The assessment required completing any 2 of 3 tasks. Task 1 and Task 3 were selected.
 
 | Task | Name | Concept | Tech |
 |------|------|---------|------|
@@ -58,8 +59,9 @@ Task 1 hash chain protects those logs
 Attacker tries to delete/modify logs
            ↓
 Tamper detected → forensic evidence preserved
-> While these systems are not directly integrated in this implementation, they reflect a real-world security architecture where detection and tamper-proof logging work together.
+
 ```
+> While these systems are not directly integrated in this implementation, they reflect a real-world security architecture where detection and tamper-proof logging work together.
 
 Together they can be made to form a two-layer security pipeline:
 - **Layer 1 — Detection:** Honeypot catches attackers early
